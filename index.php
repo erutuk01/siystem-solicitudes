@@ -25,7 +25,7 @@
             <div class="container-fluid">
                 <form class="sign-box">
                     <div class="sign-avatar">
-                        <img src="public/img/avatar-sign.png" alt="">
+                        <img src="public/img/logo.png" alt="">
                     </div>
                     <header class="sign-title">Iniciar sesión</header>
                     <div class="form-group">
