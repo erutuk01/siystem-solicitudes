@@ -25983,7 +25983,8 @@ body.modal-open {
   outline: 0 !important;
 }
 body {
-  background: #eceff4;
+  background: url('../img/imagen.jpg') center center no-repeat;
+  background-size: cover;
 }
 .site-header-search {
   width: 100%;
